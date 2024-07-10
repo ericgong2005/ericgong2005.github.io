@@ -1,2 +1,1 @@
-# ericgong2005.github.io
-Github Pages Website
+Eric Gong's Github Pages Website
