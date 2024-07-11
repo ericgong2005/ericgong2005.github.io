@@ -10,7 +10,7 @@
 /* Style the navigation bar links */
 .navbar a {
   float: left;
-  color: #777777;
+  color: #666666;
   text-align: center;
   padding: 15px 15px;
   text-decoration: none; /* Remove underline */
@@ -25,10 +25,10 @@
 
 /* Change color to indicate the current selection*/
 .navbar a.current {
-  color: black; /* Black text color */
+  color: #333399; /* Black text color */
 }
 
 /* Change color on hover/mouse-over */
 .navbar a:hover {
-  color: black; /* Black text color */
+  color: #333399; /* Black text color */
 }
