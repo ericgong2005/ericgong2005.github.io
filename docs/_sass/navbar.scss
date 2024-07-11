@@ -1,0 +1,34 @@
+/* Style the top navigation bar */
+.navbar {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Hide overflow */
+  background-color:#F8F8F8;
+}
+
+/* Style the navigation bar links */
+.navbar a {
+  float: left;
+  color: #777777;
+  text-align: center;
+  padding: 15px 15px;
+  text-decoration: none; /* Remove underline */
+  font-size:15px;
+  font-family:'Helvetica Neue'
+}
+
+/* Right-aligned link */
+.navbar a.right {
+  float: right; /* Float a link to the right */
+}
+
+/* Change color to indicate the current selection*/
+.navbar a.current {
+  color: black; /* Black text color */
+}
+
+/* Change color on hover/mouse-over */
+.navbar a:hover {
+  color: black; /* Black text color */
+}
