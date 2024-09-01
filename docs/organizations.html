@@ -3,33 +3,14 @@ layout: default
 title: Organizations
 ---
 
-<div id="day-time"></div>
+<h1>Organizations</h1>
 
-<script src="https://cdn.jsdelivr.net/npm/react@17/umd/react.development.js" crossorigin></script>
-<script src="https://cdn.jsdelivr.net/npm/react-dom@17/umd/react-dom.development.js" crossorigin></script>
-<script src="https://cdn.jsdelivr.net/npm/@babel/standalone/babel.min.js"></script>
-
-<script type="text/babel">
-  function DayTime() {
-    const [date, setDate] = React.useState(new Date());
-
-    React.useEffect(() => {
-      const timerID = setInterval(() => setDate(new Date()), 1000);
-      
-      return () => clearInterval(timerID); // Cleanup the interval on component unmount
-    }, []);
-
-    const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
-    const day = days[date.getDay()];
-    const time = date.toLocaleTimeString();
-
-    return (
-      <div>
-        <h2>Today is {day}</h2>
-        <h3>The current time is {time}</h3>
-      </div>
-    );
-  }
-
-  ReactDOM.render(<DayTime />, document.getElementById('day-time'));
-</script>
+<div class="organization-list">
+  {% for org in site.data.organizations %}
+    <div class="organization">
+      <img src="{{ org.image }}" alt="{{ org.name }}" class="org-image">
+      <h3 class="organization-name">{{ org.name }}</h3>
+      <p class="organization-description">{{ org.description }}</p>
+    </div>
+  {% endfor %}
+</div>
