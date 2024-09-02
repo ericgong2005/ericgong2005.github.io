@@ -1,0 +1,23 @@
+- name: Harvard College
+  image: https://lh3.googleusercontent.com/d/1eV_3vYHXC-5D3kSeOJJA4h415xCs-qG-?authuser=1/view
+  description: Undergraduate at Harvard College studying Computer Science and Statistics Lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+- name: Harvard General Education Committee
+  image: https://lh3.googleusercontent.com/d/1qClp7VtA2h2mqQpZHugWjQe02hl8Rc7e?authuser=1/view
+  description: Collaborate with 14 tenured professors to create educational guidelines Lorem ipsum dolor sit amet, consectetur adipiscing elit Collaborate with 14 tenured professors to create educational guidelines Lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+- name: Harvard Data Analytics Group
+  image: https://lh3.googleusercontent.com/d/1RRfVFrrQCQSdOO2Xm1gUDa8RI15JZi4F?authuser=1/view
+  description: Harvard Undergraduate Data Analytics Group is a non-profit
+
+- name: Test College
+  image: https://lh3.googleusercontent.com/d/1eV_3vYHXC-5D3kSeOJJA4h415xCs-qG-?authuser=1/view
+  description: Undergraduate at Harvard College studying Computer Science and Statistics
+
+- name: General Education Committee
+  image: https://lh3.googleusercontent.com/d/1qClp7VtA2h2mqQpZHugWjQe02hl8Rc7e?authuser=1/view
+  description: Collaborate with 14 tenured professors to create educational guidelines
+
+- name: Harvard Data Analytics Group
+  image: https://lh3.googleusercontent.com/d/1RRfVFrrQCQSdOO2Xm1gUDa8RI15JZi4F?authuser=1/view
+  description: Harvard Undergraduate Data Analytics Group is a non-profit
