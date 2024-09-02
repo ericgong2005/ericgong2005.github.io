@@ -5,12 +5,12 @@ title: Organizations
 
 <h1>Organizations</h1>
 
-<div class="organization-list">
-  {% for org in site.data.organizations %}
-    <div class="organization">
-      <img src="{{ org.image }}" alt="{{ org.name }}" class="org-image">
-      <h3 class="organization-name">{{ org.name }}</h3>
-      <p class="organization-description">{{ org.description }}</p>
-    </div>
+<div class="gallery">
+  {% for item in site.data.organizations %}
+  <div class="gallery-item">
+      <img src="{{ item.image }}" alt="{{ item.name }}">
+      <div class="name">{{ item.name }}</div>
+      <div class="description">{{ item.description }}</div>
+  </div>
   {% endfor %}
 </div>
