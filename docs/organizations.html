@@ -8,9 +8,13 @@ title: Organizations
 <div class="gallery">
   {% for item in site.data.organizations %}
   <div class="gallery-item">
-      <img src="{{ item.image }}" alt="{{ item.name }}">
-      <div class="name">{{ item.name }}</div>
-      <div class="description">{{ item.description }}</div>
+      <div class="image-container">
+          <img src="{{ item.image }}" alt="{{ item.name }}">
+      </div>
+      <div class="text-container">
+          <div class="name">{{ item.name }}</div>
+          <div class="description">{{ item.description }}</div>
+      </div>
   </div>
   {% endfor %}
 </div>
