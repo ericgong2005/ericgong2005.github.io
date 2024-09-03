@@ -6,15 +6,18 @@ title: Organizations
 <h1>Organizations</h1>
 
 <div class="gallery">
-  {% for item in site.data.organizations %}
-  <div class="gallery-item">
-      <div class="image-container">
-          <img src="{{ item.image }}" alt="{{ item.name }}">
-      </div>
-      <div class="text-container">
-          <div class="name">{{ item.name }}</div>
-          <div class="description">{{ item.description }}</div>
-      </div>
-  </div>
-  {% endfor %}
+    {% for item in site.data.organizations %}
+        <div class="gallery-item">
+            <a href="{{ item.info }}" target="_blank" style="color: inherit; text-decoration: none;">
+                <div class="image-container">
+                    <img src="{{ item.image }}" alt="{{ item.name }}">
+                    <div class="hover-band">Learn More</div>
+                </div>
+            </a>
+            <div class="text-container">
+                <div class="name">{{ item.name }}</div>
+                <div class="description">{{ item.description }}</div>
+            </div>
+        </div>
+    {% endfor %}
 </div>
