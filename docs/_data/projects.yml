@@ -1,16 +1,16 @@
-- name: Harvard College
-  image: https://lh3.googleusercontent.com/d/1eV_3vYHXC-5D3kSeOJJA4h415xCs-qG-?authuser=1/view
-  description: "Concentrating in Computer Science and Statistics as a Class of 2027 Undergraduate at Harvard. (For those unfamiliar with Harvard jargon, concentrating is equivalent to majoring)"
-  info: https://www.harvard.edu/
+- name: LLM Research with Dr. Bruce Schneier
+  image: https://lh3.googleusercontent.com/d/1Qtwb1_liEIQisg0H54gk4_-zDcirmxom?authuser=1/view
+  description: "Design prompt engineering methodologies to elicit human-like political survey responses from LLMs in affiliation with the Harvard Kennedy School of Government and Berkman Klein Center."
+  info: https://ash.harvard.edu/articles/using-ai-for-political-polling/
 
-- name: Harvard General Education Committee
-  image: https://lh3.googleusercontent.com/d/1qClp7VtA2h2mqQpZHugWjQe02hl8Rc7e?authuser=1/view
-  description: "Collaborated with tenured professors and Harvard Deans to create faculty guidelines and review courses taken by all Harvard undergraduates."
-  info: https://gened.college.harvard.edu/about/#standing-committee
+- name: Bioinformatics Research with Dr. Jake Chen
+  image: https://lh3.googleusercontent.com/d/1KhGyEpLEGTd07NZE9Vvv2GYKk1qjg3jD?authuser=1/view
+  description: "Proposed novel iterative framework for disease-gene correlation prediction via machine learning algorithms. First-author paper published in Volume 59 (2) of the Journal for Biomedical Instrumentations."
+  info: https://doi.org/10.1101/2023.02.09.527562
 
-- name: Harvard Data Analytics Group
-  image: https://lh3.googleusercontent.com/d/1RRfVFrrQCQSdOO2Xm1gUDa8RI15JZi4F?authuser=1/view
-  description: "Trained a neural network model and deployed an application interface to aid Fortune 500 company in predicting revenue and costs."
+- name: Augmented Reality Research with Dr. Christian Jacobs
+  image: https://lh3.googleusercontent.com/d/1SXROXFmLsxXWuXSiLL-B6XvYrv-i2YwC?authuser=1/view
+  description: "Designed an Augmented Reality Application to educate the public on COVID-19 using Unreal Engine, for use in the Microsoft Hololens 2 AR headset."
   info: https://harvardanalytics.org/
 
 - name: Harvard Global Research and Consulting Group
