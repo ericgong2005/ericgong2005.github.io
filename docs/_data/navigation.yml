@@ -7,6 +7,8 @@ left:
     link: /blog.html
   - name: Organizations
     link: /organizations.html
+  - name: Projects
+    link: /projects.html
 right:
   - name: Staff
     link: /staff.html
