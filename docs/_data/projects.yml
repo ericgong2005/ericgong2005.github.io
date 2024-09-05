@@ -12,3 +12,8 @@
   image: https://lh3.googleusercontent.com/d/1SXROXFmLsxXWuXSiLL-B6XvYrv-i2YwC?authuser=1/view
   description: "Designed an Augmented Reality Application to educate the public on COVID-19 using Unreal Engine, for use in the Microsoft Hololens 2 AR headset."
   info: https://lindsayvirtualhuman.com/
+
+- name: Personal Website
+  image: https://lh3.googleusercontent.com/d/18c32f7Tg6PbNGjQ_Es8z1JBfWROWDJNp?authuser=1/view
+  description: "Coded this website detailing various aspects of my life using the Ruby Jekyll gem, a static website generator, hosting it free of charge via Github Pages"
+  info: https://ericgong2005.github.io/
