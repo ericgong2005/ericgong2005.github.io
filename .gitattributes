@@ -1,3 +1,8 @@
+# Allow all site files, then exclude
+** -linguist-documentation
+** -linguist-generated
+** linguist-detectable
+
 # Exclude .yml files
 *.yml linguist-vendored
 
@@ -6,8 +11,3 @@ LICENSE linguist-vendored
 
 #Exclude the compiled site
 /_site** linguist-vendored
-
-# Allow all other site files
-** -linguist-documentation
-** -linguist-generated
-** linguist-detectable
