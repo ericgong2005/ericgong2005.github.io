@@ -1,4 +1,4 @@
-/docs/* linguist-vendored=false
+* linguist-vendored=false
 *.html linguist-language=HTML
 *.scss linguist-language=SCSS
 *.md linguist-language=Markdown
