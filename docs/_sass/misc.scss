@@ -1,0 +1,27 @@
+/* pdf container for google drive documents*/
+.header {
+    background-color: rgba(68, 68, 68, 0.16);
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+    margin: 20px 50px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  }
+  
+  .pdf-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80%;
+    margin: 10px 50px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.pdf-container iframe {
+    width: 75%;
+    height: 100%;
+}
