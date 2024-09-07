@@ -1,0 +1,8 @@
+/docs/* linguist-vendored=false
+*.html linguist-language=HTML
+*.scss linguist-language=SCSS
+*.md linguist-language=Markdown
+*.yml linguist-language=YAML
+*.js linguist-language=JavaScript
+*.css linguist-language=CSS
+*.json linguist-language=JSON
