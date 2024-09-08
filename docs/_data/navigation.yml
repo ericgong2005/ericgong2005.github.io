@@ -8,5 +8,7 @@ left:
   - name: Projects
     link: /projects.html
 right:
+  - name: Feedback
+    link: /feedback.html
   - name: Resume
     link: /resume.html
