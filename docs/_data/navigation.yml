@@ -1,8 +1,6 @@
 left:
   - name: Home
     link: /
-  - name: About
-    link: /about.html
   - name: Organizations
     link: /organizations.html
   - name: Projects
