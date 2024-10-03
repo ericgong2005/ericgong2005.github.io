@@ -18,7 +18,12 @@
   description: "Utilized a combination of in-vitro protein inhibition assays and in-silico inhibitor efficacy modeling to target select fungal enzymes."
   info: /documents/ssp-paper.html
 
+- name: STEM Society Website
+  image: https://lh3.googleusercontent.com/d/1K9ISW778xvDjAMOvavf7chEmPW37OdOb?authuser=1/view
+  description: "Coded the STEM Society website using C#, implementing a MySQL database backend allowing users to filter opportunities by their preferences."
+  info: https://stemsociety.ca/
+
 - name: Personal Website
   image: https://lh3.googleusercontent.com/d/18c32f7Tg6PbNGjQ_Es8z1JBfWROWDJNp?authuser=1/view
-  description: "Coded a personal website using the Ruby Jekyll gem, a static website generator, hosting it free of charge via Github Pages"
+  description: "Coded a personal website using the Ruby Jekyll gem, a static website generator, hosting it free of charge via Github Pages."
   info: https://github.com/ericgong2005/ericgong2005.github.io
