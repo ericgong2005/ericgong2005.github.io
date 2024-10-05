@@ -9,7 +9,7 @@ function openCard(JsonItem) {
     cardTitle.textContent = item.name;
     cardImage.src = item.image;
     cardMoreInfo.href = item.info;
-    cardDescription.textContent = item.description;
+    cardDescription.textContent = item.full_description;
 
     card.style.display = "block";
     document.body.style.overflow = "hidden";

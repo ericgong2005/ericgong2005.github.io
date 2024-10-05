@@ -1,29 +1,35 @@
 - name: LLM Research with Dr. Bruce Schneier
   image: https://lh3.googleusercontent.com/d/1Qtwb1_liEIQisg0H54gk4_-zDcirmxom?authuser=1/view
   description: "Design prompt engineering methodologies to elicit human-like political survey responses from LLMs in affiliation with the Harvard Kennedy School of Government and Berkman Klein Center."
+  full_description: "Design prompt engineering methodologies to elicit human-like political survey responses from LLMs in affiliation with the Harvard Kennedy School of Government and Berkman Klein Center."
   info: https://ash.harvard.edu/articles/using-ai-for-political-polling/
 
 - name: Bioinformatics Research with Dr. Jake Chen
   image: https://lh3.googleusercontent.com/d/1KhGyEpLEGTd07NZE9Vvv2GYKk1qjg3jD?authuser=1/view
   description: "Proposed novel iterative framework for disease-gene correlation prediction via machine learning algorithms. First-author paper published in Volume 59 (2) of the Journal for Biomedical Instrumentations."
+  full_description: "Proposed novel iterative framework for disease-gene correlation prediction via machine learning algorithms. First-author paper published in Volume 59 (2) of the Journal for Biomedical Instrumentations."
   info: /documents/uab-paper.html
 
 - name: Augmented Reality Research with Dr. Christian Jacobs
   image: https://lh3.googleusercontent.com/d/1SXROXFmLsxXWuXSiLL-B6XvYrv-i2YwC?authuser=1/view
   description: "Designed an Augmented Reality Application to educate the public on COVID-19 using Unreal Engine, for use in the Microsoft Hololens 2 AR headset."
+  full_description: "Designed an Augmented Reality Application to educate the public on COVID-19 using Unreal Engine, for use in the Microsoft Hololens 2 AR headset."
   info: https://lindsayvirtualhuman.com/
 
 - name: Enzyme Inhibition Research with The Summer Science Program
   image: https://lh3.googleusercontent.com/d/17jmlMgARmQOw_TirPUHSHA-mzNeyscTj?authuser=1/view
   description: "Utilized in-vitro protein inhibition assays and in-silico inhibitor efficacy modeling to target enzymes highly conserved across the fungal kingdom."
+  full_description: "Utilized in-vitro protein inhibition assays and in-silico inhibitor efficacy modeling to target enzymes highly conserved across the fungal kingdom."
   info: /documents/ssp-paper.html
 
 - name: STEM Society Website
   image: https://lh3.googleusercontent.com/d/1K9ISW778xvDjAMOvavf7chEmPW37OdOb?authuser=1/view
   description: "Coded the STEM Society website using C#, implementing a MySQL database backend allowing users to filter opportunities by their preferences."
+  full_description: "Coded the STEM Society website using C#, implementing a MySQL database backend allowing users to filter opportunities by their preferences."
   info: https://stemsociety.ca/
 
 - name: Personal Website
   image: https://lh3.googleusercontent.com/d/18c32f7Tg6PbNGjQ_Es8z1JBfWROWDJNp?authuser=1/view
   description: "Coded a personal website using the Ruby Jekyll gem, a static website generator, hosting it free of charge via Github Pages."
+  full_description: "Coded a personal website using the Ruby Jekyll gem, a static website generator, hosting it free of charge via Github Pages."
   info: https://github.com/ericgong2005/ericgong2005.github.io

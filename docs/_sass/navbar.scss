@@ -1,34 +1,43 @@
-/* Style the top navigation bar */
+main {
+  margin-top: 60px;
+  height: 100%
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 80%
+}
+
 .navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2000;
   width: 100%;
   margin: 0;
   padding: 0;
-  overflow: hidden; /* Hide overflow */
   background-color:#F8F8F8;
 }
 
-/* Style the navigation bar links */
 .navbar a {
   float: left;
   color: #666666;
   text-align: center;
   padding: 15px 15px;
-  text-decoration: none; /* Remove underline */
+  text-decoration: none;
   font-size:15px;
   font-family:'Helvetica Neue'
 }
 
-/* Right-aligned link */
 .navbar a.right {
-  float: right; /* Float a link to the right */
+  float: right;
 }
 
-/* Change color to indicate the current selection*/
 .navbar a.current {
-  color: #333399; /* Black text color */
+  color: #333399;
 }
 
-/* Change color on hover/mouse-over */
 .navbar a:hover {
-  color: #333399; /* Black text color */
+  color: #333399;
 }
