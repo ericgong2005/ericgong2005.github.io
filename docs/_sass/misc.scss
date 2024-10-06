@@ -1,4 +1,3 @@
-/* pdf container for google drive documents*/
 .header {
     background-color: rgba(68, 68, 68, 0.16);
     font-size: 25px;
@@ -24,4 +23,6 @@
 .pdf-container iframe {
     width: 75%;
     height: 100%;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
 }
