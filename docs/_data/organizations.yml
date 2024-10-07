@@ -8,9 +8,19 @@
   description: "Collaborated with tenured professors and Harvard Deans to create faculty guidelines and review courses taken by all Harvard undergraduates."
   info: https://gened.college.harvard.edu/about/#standing-committee
 
+- name: Paragon Policy Fellowship
+  image: https://lh3.googleusercontent.com/d/1Tqh4sYl6wG-8Efv3oE36YQT9NggFjDox?authuser=1/view
+  description: "Analyze the technical feasibility of deploying LLMs on US Department of Energy Frontier Supercomputers, for use by researchers across various disciplines"
+  info: https://www.paragonfellowship.org/
+
 - name: Harvard Data Analytics Group
   image: https://lh3.googleusercontent.com/d/1RRfVFrrQCQSdOO2Xm1gUDa8RI15JZi4F?authuser=1/view
-  description: "Trained a neural network model and deployed an application interface to aid Fortune 500 company in predicting revenue and costs."
+  description: "Trained and deployed econometric time-series forecasting models on a web app interface to aid Fortune 500 company in predicting revenue and costs."
+  info: https://harvardanalytics.org/
+
+- name: Harvard Computer Society Tech for Social Good
+  image: https://lh3.googleusercontent.com/d/1JvnQ9Exl839TPUJfDrLEqBd4ZMn-ST_t?authuser=1/view
+  description: "Fine-tune LLM models for deployment on a REACT web app, decreasing resource retrieval time for One Degree, a non-profit providing crisis response and resources for those in need"
   info: https://harvardanalytics.org/
 
 - name: Harvard Global Research and Consulting Group
@@ -25,7 +35,7 @@
 
 - name: Summer Science Program Alumni
   image: https://lh3.googleusercontent.com/d/17jmlMgARmQOw_TirPUHSHA-mzNeyscTj?authuser=1/view
-  description: "One of over 3400 alumni of the Summer Science Program (SSP), founded in 1959. Attended SSP's Biochemistry program in 2022."
+  description: "One of over 3400 alumni of the Summer Science Program (SSP), a summer research program founded in 1959 affilated with Caltech and MIT. Attended SSP's Biochemistry program in 2022."
   info: https://summerscience.org/
 
 - name: Johns Hopkins University Center for Talented Youth
