@@ -1,12 +1,17 @@
-- name: Harvard College
+- name: Harvard College Class of 2027
   image: https://lh3.googleusercontent.com/d/1eV_3vYHXC-5D3kSeOJJA4h415xCs-qG-?authuser=1/view
-  description: "Concentrating in Computer Science and Statistics as a Class of 2027 Undergraduate at Harvard. (For those unfamiliar with Harvard jargon, concentrating is equivalent to majoring)"
+  description: "Undergraduate at Harvard concentrating in Computer Science and Statistics. (For those unfamiliar with Harvard jargon, concentrating is equivalent to majoring)"
   info: https://www.harvard.edu/
 
 - name: Harvard General Education Committee
   image: https://lh3.googleusercontent.com/d/1qClp7VtA2h2mqQpZHugWjQe02hl8Rc7e?authuser=1/view
-  description: "Collaborated with tenured professors and Harvard Deans to create faculty guidelines and review courses taken by all Harvard undergraduates."
+  description: "Collaborate with tenured professors and Harvard Deans to create faculty guidelines and review courses taken by all Harvard undergraduates."
   info: https://gened.college.harvard.edu/about/#standing-committee
+
+- name: Harvard College Research Program (HCRP) Grant Recipient
+  image: https://lh3.googleusercontent.com/d/1bY-zDXL84ODvjq5u0PCR4Ye7_a2Z_irQ?authuser=1/view
+  description: "The Harvard College Research Program (HCRP) provides funding in support of student-initiated, independent scholarly research or creative endeavors undertaken with guidance of a Harvard-affiliated faculty mentor."
+  info: https://uraf.harvard.edu/uraf-opportunities/hcrp
 
 - name: Paragon Policy Fellowship
   image: https://lh3.googleusercontent.com/d/1Tqh4sYl6wG-8Efv3oE36YQT9NggFjDox?authuser=1/view
@@ -15,7 +20,7 @@
 
 - name: Harvard Data Analytics Group
   image: https://lh3.googleusercontent.com/d/1RRfVFrrQCQSdOO2Xm1gUDa8RI15JZi4F?authuser=1/view
-  description: "Trained and deployed econometric time-series forecasting models on a web app interface to aid Fortune 500 company in predicting revenue and costs."
+  description: "Train and deploy econometric time-series forecasting models on a web app interface to aid Fortune 500 company in predicting revenue and costs."
   info: https://harvardanalytics.org/
 
 - name: Harvard Computer Society Tech for Social Good
@@ -25,12 +30,12 @@
 
 - name: Harvard Global Research and Consulting Group
   image: https://lh3.googleusercontent.com/d/1dZKA0nrnRboVBjGLLfbhcY6sclK68bz6?authuser=1/view
-  description: "Employed web performance optimization and conducted case-study research to aid billion-dollar NGO Doctors Without Borders on increasing digital resource accessibility."
+  description: "Employ web performance optimization and conducted case-study research to aid billion-dollar NGO Doctors Without Borders on increasing digital resource accessibility."
   info: https://www.hugrc.org/
 
 - name: STEM Society Non-profit
   image: https://lh3.googleusercontent.com/d/1K9ISW778xvDjAMOvavf7chEmPW37OdOb?authuser=1/view
-  description: "Founded STEM Society, a federally registered non-profit organization aimed at providing resources to aid youth in exploring STEM"
+  description: "Founder of STEM Society, a federally registered non-profit organization aimed at providing resources to aid youth in exploring STEM"
   info: https://stemsociety.ca/
 
 - name: Summer Science Program Alumni
