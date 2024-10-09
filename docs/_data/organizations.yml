@@ -20,7 +20,7 @@
 
 - name: Harvard Data Analytics Group
   image: https://lh3.googleusercontent.com/d/1RRfVFrrQCQSdOO2Xm1gUDa8RI15JZi4F?authuser=1/view
-  description: "Train and deploy econometric time-series forecasting models on a web app interface to aid Fortune 500 company in predicting revenue and costs."
+  description: "Train and deploy econometric time-series forecasting models on a web app interface to aid Fortune 500 company clients in predicting revenue and costs."
   info: https://harvardanalytics.org/
 
 - name: Harvard Computer Society Tech for Social Good
@@ -30,7 +30,7 @@
 
 - name: Harvard Global Research and Consulting Group
   image: https://lh3.googleusercontent.com/d/1dZKA0nrnRboVBjGLLfbhcY6sclK68bz6?authuser=1/view
-  description: "Employ web performance optimization and conducted case-study research to aid billion-dollar NGO Doctors Without Borders on increasing digital resource accessibility."
+  description: "Employ web performance optimization techniques and conducted case-study research to aid billion-dollar NGO Doctors Without Borders on increasing digital resource accessibility."
   info: https://www.hugrc.org/
 
 - name: STEM Society Non-profit

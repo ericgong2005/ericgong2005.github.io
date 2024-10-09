@@ -7,13 +7,13 @@
 - name: Hosting R Code on Web Apps with the Dana-Farber Cancer Institute
   image: https://lh3.googleusercontent.com/d/1i7q0hidg0g8Kae8gaclVg33aOrJOkSrL?authuser=1/view
   description: "Develop web app and API gateways to deploy statistical tools developed in R by Dana-Farber researchers for usage by patients, clinics, and other researchers."
-  full_description: "•	Develop web app and API gateways to deploy statistical tools developed in R by Dana-Farber researchers for usage by patients, clinics, and other researchers."
+  full_description: "Develop web app and API gateways to deploy statistical tools developed in R by Dana-Farber researchers for usage by patients, clinics, and other researchers."
   info: https://www.dana-farber.org/
 
 - name: Bioinformatics Research with Dr. Jake Chen
   image: https://lh3.googleusercontent.com/d/1KhGyEpLEGTd07NZE9Vvv2GYKk1qjg3jD?authuser=1/view
-  description: "Proposed novel iterative framework for disease-gene correlation prediction via machine learning algorithms. First-author paper published in Volume 59 (2) of the Journal for Biomedical Instrumentations."
-  full_description: "Proposed novel iterative framework for disease-gene correlation prediction via machine learning algorithms. First-author paper published in Volume 59 (2) of the Journal for Biomedical Instrumentations."
+  description: "Proposed novel iterative framework for disease-gene correlation prediction via network algorithms. First-author paper published in Volume 59 (2) of the Journal for Biomedical Instrumentations."
+  full_description: "Proposed novel iterative framework for disease-gene correlation prediction via network algorithms. First-author paper published in Volume 59 (2) of the Journal for Biomedical Instrumentations."
   info: /documents/uab-paper.html
 
 - name: Augmented Reality Research with Dr. Christian Jacobs
