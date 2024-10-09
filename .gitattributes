@@ -6,6 +6,9 @@
 # Exclude .yml files
 *.yml linguist-vendored
 
+# Exclude .txt files
+*.txt linguist-vendored
+
 # Exclude the License
 LICENSE linguist-vendored
 
