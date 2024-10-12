@@ -8,24 +8,21 @@ function startSlideShow(cardSlideShow, slideIndex) {
             if (slide.style.display === "block") {
                 slide.classList.remove("fade-in");
                 slide.classList.add("fade-out");
-                setTimeout(() => slide.style.display = "none", 450); // Wait for fade-out to complete
+                setTimeout(() => slide.style.display = "none", 700);
             }
         });
     
-        // Show and fade in the current slide
         slides[slideIndex - 1].classList.remove("fade-out");
         slides[slideIndex - 1].classList.add("fade-in");
-        setTimeout(() => slides[slideIndex - 1].style.display = "block", 450)
+        setTimeout(() => slides[slideIndex - 1].style.display = "block", 700)
     }
 
-    // Start the slideshow with an interval and return the interval ID for cleanup
     let intervalId = setInterval(function() {
         slideIndex++;
         showSlides(slideIndex);
-    }, 3000); // 4 seconds interval
+    }, 4000);
 
-    // Show the first slide when the card is opened
     showSlides(slideIndex);
 
-    return intervalId; // Return the interval ID for later clearing
+    return intervalId;
 }
