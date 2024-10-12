@@ -13,6 +13,11 @@
   description: "The Harvard College Research Program (HCRP) provides funding in support of student-initiated, independent scholarly research or creative endeavors undertaken with guidance of a Harvard-affiliated faculty mentor."
   info: https://uraf.harvard.edu/uraf-opportunities/hcrp
 
+- name: Harvard Innovation Labs
+  image: https://lh3.googleusercontent.com/d/1tyvbP-Rk_GKsXNkFNL7dzyHw3-yf7Pe6?authuser=1/view
+  description: "The Harvard Innovation Labs support the entrepreneurial endeavors of Harvard innovators from idea generation to venture building, through mentorship guidance, community, funding, and other resources."
+  info: https://innovationlabs.harvard.edu/
+
 - name: Paragon Policy Fellowship
   image: https://lh3.googleusercontent.com/d/1Tqh4sYl6wG-8Efv3oE36YQT9NggFjDox?authuser=1/view
   description: "Analyze the technical feasibility of deploying LLMs on US Department of Energy Frontier and Aurora Supercomputers, for use by researchers across various disciplines"

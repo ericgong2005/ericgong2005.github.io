@@ -10,7 +10,7 @@ description: "Learn about the projects Eric Gong has contributed to"
     {% for item in site.data.projects %}
         <div class="gallery-item">
             <div class="image-container" data-item='{{ item | jsonify }}' onclick="openCard(this)">
-                <img src="{{ item.image }}" alt="{{ item.name }}">
+                <img src="{{ item.images | first }}" alt="{{ item.name }}">
                 <div class="hover-band">Learn More</div>
             </div>
             <div class="text-container">
