@@ -2,12 +2,14 @@
     width: 100%;
     height: 100%;
     overflow: hidden;
+    position: relative;
   }
 
   .slideshow-container .slideshow-slide {
     display: none;
     width: 100%;
     height: 100%;
+    position: absolute; 
     object-fit: scale-down;
   }
 

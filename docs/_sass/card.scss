@@ -20,7 +20,7 @@
   height: 90%;
   display: flex;
   flex-direction: column;
-  overflow: hidden; // Changed from overflow: auto
+  overflow: hidden;
 }
 
 .card .card-header {
@@ -51,16 +51,16 @@
 
 .card .card-content {
   flex: 1 1 auto;
-  overflow-y: auto;
-  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
+  overflow-y: auto;
 }
 
 .card .card-content .card-slideshow {
   width: 80%;
   height: 60%;
+  flex-shrink: 0;
   margin: 20px 0px 20px 0px;
   padding: 15px;
   border-radius: 8px;
