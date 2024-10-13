@@ -3,6 +3,7 @@ function openCard(JsonItem) {
     var card = document.getElementById('projectCard');
     var cardTitle = document.getElementById('cardTitle');
     var cardSlideShow = document.getElementById('cardSlideShow');
+    var cardSlideShowDots = document.getElementById('cardSlideShowDots');
     var cardMoreInfo = document.getElementById('cardMoreInfo');
     var cardDescription = document.getElementById('cardDescription');
 
@@ -10,34 +11,50 @@ function openCard(JsonItem) {
     cardMoreInfo.href = item.info;
     cardDescription.textContent = item.full_description;
 
-    cardSlideShow.innerHTML = ''; // Clear previous slides
-    item.images.forEach(function(imageSrc) {
+    cardSlideShow.innerHTML = '';
+    cardSlideShowDots.innerHTML = '';
+
+    item.images.forEach(function(imageSrc, index) {
         var img = document.createElement('img');
         img.src = imageSrc;
         img.alt = item.name;
         img.classList.add('slideshow-slide');
         cardSlideShow.appendChild(img);
+    
+        var dot = document.createElement('span');
+        dot.classList.add('dot');
+        dot.addEventListener('click', function() {
+            goToSlide(cardSlideShow, index + 1);
+        });
+        cardSlideShowDots.appendChild(dot);
     });
 
     card.style.display = "block";
     document.body.style.overflow = "hidden";
 
-    // Start slideshow specific to this card
-    let cardSlideIndex = 1;
-    let slideInterval = startSlideShow(cardSlideShow, cardSlideIndex);
+    if (slideIntervalId) {
+        clearInterval(slideIntervalId);
+    }
 
-    // Attach the close event handler to stop the slideshow and clean up
+    let cardSlideIndex = 1;
+    slideIntervalId = startSlideShow(cardSlideShow, cardSlideIndex); // Start slideshow
+
     document.querySelector('.card-close').addEventListener('click', function() {
-        closeCard(card, slideInterval);
+        closeCard(card, slideIntervalId);
+    });
+
+    window.addEventListener('click', function(event) {
+        if (event.target == card) {
+            closeCard(card, slideIntervalId);
+        }
     });
 }
 
 function closeCard(card, intervalId) {
-    clearInterval(intervalId); // Stop the slideshow interval when closing the card
+    clearInterval(intervalId);
     card.style.display = "none";
     document.body.style.overflow = "auto";
 
-    // Clear the slideshow content (to stop interaction after the card is closed)
     var cardSlideShow = document.getElementById('cardSlideShow');
     cardSlideShow.innerHTML = '';
 }
