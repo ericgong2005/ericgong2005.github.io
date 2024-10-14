@@ -19,6 +19,7 @@ function openCard(JsonItem) {
         img.src = imageSrc;
         img.alt = item.name;
         img.classList.add('slideshow-slide');
+        img.setAttribute('draggable', 'false');
         cardSlideShow.appendChild(img);
     
         var dot = document.createElement('span');
