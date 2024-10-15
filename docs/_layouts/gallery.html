@@ -2,14 +2,36 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    
+    <!-- Browser Tab Title -->
     <title>Eric Gong | {{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    <meta name="google-site-verification" content="EYxEmCtHXBDKCDwpFPhEvqo9eGbpH7eqWS6TI_UW4bk" />
+
+    <!-- Essential Meta Tags -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="EYxEmCtHXBDKCDwpFPhEvqo9eGbpH7eqWS6TI_UW4bk" />
+    <meta name="description" content="{{ page.description }}">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Eric Gong">
+    <meta name="keywords" content="Eric Gong, Website, Harvard, Undergraduate, Class of 2027">
+
+    <!-- Open Graph / Facebook Meta Tags -->
+    <meta property="og:title" content="{{ page.seo_title | default: page.title}}">
+    <meta property="og:description" content="{{ page.description }}">
+    <meta property="og:image" content="{{ site.data.images.profile.headshot }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:type" content="website">
+    
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ page.seo_title | default: page.title }}">
+    <meta name="twitter:description" content="{{ page.description }}">
+    <meta name="twitter:image" content="{{ site.data.images.profile.headshot }}">
+
+    <!-- Link to CSS Stylesheet -->
+    <link rel="stylesheet" href="/assets/css/styles.css">
+
+    <!-- Feed Meta -->
     {% feed_meta %}
-    {% seo %}
   </head>
   <body>
     {% include navigation.html %}

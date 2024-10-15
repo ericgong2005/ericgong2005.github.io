@@ -1,6 +1,7 @@
 ---
 layout: gallery
 title: Projects
+seo_title: "Eric Gong's Collaborative and Personal Projects"
 description: "Eric Gong works Collaboratively or Independently on various Research Projects, Non-profit Initiatives, as well as Personal Interests."
 ---
 
@@ -10,7 +11,7 @@ description: "Eric Gong works Collaboratively or Independently on various Resear
     {% for item in site.data.projects %}
         <div class="gallery-item">
             <div class="image-container" data-item='{{ item | jsonify }}' onclick="openCard(this)">
-                <img src="{{ item.images | first }}" alt="{{ item.name }}" draggable="false">
+                <img src="{{ item.images | first }}" alt="Eric Gong's Involvement with {{ item.name }}" draggable="false">
                 <div class="hover-band">Learn More</div>
             </div>
             <div class="text-container">

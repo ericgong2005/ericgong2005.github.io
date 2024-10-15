@@ -17,7 +17,7 @@ function openCard(JsonItem) {
     item.images.forEach(function(imageSrc, index) {
         var img = document.createElement('img');
         img.src = imageSrc;
-        img.alt = item.name;
+        img.alt = "Eric Gong's involvment in " + item.name;
         img.classList.add('slideshow-slide');
         img.setAttribute('draggable', 'false');
         cardSlideShow.appendChild(img);
