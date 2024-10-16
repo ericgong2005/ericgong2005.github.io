@@ -4,15 +4,21 @@ title: Home
 seo_title: "Eric Gong's Personal Website"
 description: "Eric Gong is a Harvard Undergrad studying Computer Science & Statistics. Explore Eric's involvment in AI, Data Science, Augmented Reality, and beyond."
 ---
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    <img src="{{ site.data.images.profile.headshot }}" alt="Eric Gong is a Harvard Undergraduate studying Computer Science and Statistics" width="50%" draggable="false" style="display:block; margin-left:auto; margin-right:auto; border-radius:50%;" />
-    <h1 style="text-align:center;">Welcome to My Personal Website</h1>
-    <p style="text-align:center; max-width:700px; margin: 0 auto;">Greetings! I'm Eric Gong, a Sophomore at Harvard studying Computer Science and Statistics. This is my personal website where I share some of my work, fun projects, and more. Feel free to explore!</p>
-  </body>
-</html>
+
+<div class="homepage">
+  <div class="profile">
+    <img src="{{ site.data.images.profile.headshot }}" alt="Eric Gong is a Harvard Undergraduate studying Computer Science and Statistics" draggable="false" />
+  </div>
+  <h1>Welcome to My Personal Website</h1>
+  <p>Greetings! I'm Eric Gong, a Sophomore at Harvard studying Computer Science and Statistics. This is my personal website where I share some of my work, fun projects, and more. Feel free to explore!</p>
+  <div class="link-list">
+    {% for item in site.data.homepage_links %}
+      <a href="{{ item.link }}" target="_blank" style="color: inherit; text-decoration: none;">
+        <div class="link">
+            <img src="{{ item.icon }}" alt="Eric Gong's {{ item.name }}" draggable="false">
+            <span>{{ item.name }}</span>
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+</div>
