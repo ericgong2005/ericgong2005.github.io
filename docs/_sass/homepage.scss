@@ -12,7 +12,7 @@
     margin-left: auto;
     margin-right: auto;
     border-radius: 50%;
-    width: 40%;
+    width: 50%;
 }
 
 .homepage h1 {
@@ -36,10 +36,10 @@
 
 .homepage .link-list .link {
     display: flex;
-    justify-content: center;
+    flex-direction: row;
     width: 200px;
     height: auto; 
-    padding: 10px;
+    padding: 10px 0px 10px 15px;
     margin: 10px;
     border-radius: 25px;
     background-color: #f0f0f0;
@@ -51,15 +51,15 @@
 
 .homepage .link-list .link img {
     float: left;
-    width: 20px;
-    height: 20px;
-    padding: 0px 10px 0px 10px;
+    width: 10%;
+    height: 10%;
     object-fit: contain;
     border-radius: 50%;
 }
 
 .homepage .link-list .link span {
-    float: right;
+    width: 75%;
+    text-align: center;
     font-size: 100%;
-    padding: 0px 10px 0px 10px;
+    padding: 3px 10px 0px 10px;
 }
