@@ -49,6 +49,10 @@
     color: #333;
 }
 
+.homepage .link-list .link:hover {
+    box-shadow: 0 7px 15px rgba(0, 0, 0, 0.5);
+}
+
 .homepage .link-list .link img {
     float: left;
     width: 10%;
