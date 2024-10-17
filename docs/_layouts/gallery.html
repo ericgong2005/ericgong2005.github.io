@@ -2,6 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+
+    <!-- Search Engine Page Title -->
+    <meta name="title" content="{{ page.seo_title | default: page.title}}">
     
     <!-- Browser Tab Title -->
     <title>Eric Gong | {{ page.title }}</title>
@@ -12,7 +15,7 @@
     <meta name="description" content="{{ page.description }}">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Eric Gong">
-    <meta name="keywords" content="Eric Gong, Website, Harvard, Undergraduate, Class of 2027">
+    <meta name="keywords" content="Eric Gong, Website, Harvard, Undergraduate, Class of 2027, Computer Science">
 
     <!-- Open Graph / Facebook Meta Tags -->
     <meta property="og:title" content="{{ page.seo_title | default: page.title}}">
