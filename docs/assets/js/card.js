@@ -6,6 +6,7 @@ function openCard(JsonItem) {
     var cardSlideShowDots = document.getElementById('cardSlideShowDots');
     var cardMoreInfo = document.getElementById('cardMoreInfo');
     var cardDescription = document.getElementById('cardDescription');
+    var cardMedia = document.getElementById('cardMedia');
 
     cardTitle.textContent = item.name;
     cardMoreInfo.href = item.info;
@@ -13,6 +14,30 @@ function openCard(JsonItem) {
 
     cardSlideShow.innerHTML = '';
     cardSlideShowDots.innerHTML = '';
+    cardMedia.innerHTML = '';
+
+    if (item.media && Array.isArray(item.media) && item.media.length > 0) {
+        item.media.forEach(function(media, index){
+            var headerDiv = document.createElement('div');
+            headerDiv.className = 'header';
+            headerDiv.textContent = media.name;
+
+            var iframe = document.createElement('iframe');
+            iframe.src = media.link;
+            iframe.title = media.name;
+            iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
+            iframe.allowFullscreen = true;
+            iframe.referrerPolicy = "strict-origin-when-cross-origin";
+
+            var iframeBoxDiv = document.createElement('div');
+            iframeBoxDiv.className = 'iframe-box';
+            iframeBoxDiv.appendChild(iframe);
+
+
+            cardMedia.appendChild(headerDiv);
+            cardMedia.appendChild(iframeBoxDiv);
+        })
+    }
 
     item.images.forEach(function(imageSrc, index) {
         var img = document.createElement('img');

@@ -38,7 +38,12 @@
     - https://lh3.googleusercontent.com/d/1jLedkbPnXhA_oHKjYkUIGV4iB2GXfMKL?authuser=1/view
     - https://lh3.googleusercontent.com/d/1ggoekr3RP66HA4PSPeH1wLdV6-HUKYLN?authuser=1/view
     - https://lh3.googleusercontent.com/d/14P4tipoZ31OUf6NiHVBnrerqaSBtXzqV?authuser=1/view
+  media:
+    - name: "HoloCOVID Augmented Reality App Demonstration"
+      type: video
+      link: https://www.youtube.com/embed/UJisPF8AxM8?si=SGXwR48yleGSwdp8
 
+      
 - name: Enzyme Inhibition Research with The Summer Science Program
   description: "Utilized in-vitro protein inhibition assays and in-silico inhibitor efficacy modeling to target enzymes highly conserved across the fungal kingdom."
   full_description: "Utilized in-vitro protein inhibition assays and in-silico inhibitor efficacy modeling to target enzymes highly conserved across the fungal kingdom."

@@ -33,14 +33,14 @@
   box-sizing: border-box;
 }
 
-.card .card-title {
+.card .card-header .card-title {
   text-align: center;
   font-size: 22px;
   font-weight: bold; 
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.card .card-close {
+.card .card-header .card-close {
   position: absolute;
   top: 10px;
   right: 20px;
@@ -55,21 +55,52 @@
   flex-direction: column;
   align-items: center;
   overflow-y: auto;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .card .card-content .card-slideshow {
-  width: 80%;
-  height: 60%;
+  width: 85%;
+  height: 70%;
   flex-shrink: 0;
   margin: 20px 0px 20px 0px;
   padding: 15px;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
 }
 
 .card .card-content .card-description {
-  max-width: 80%;
+  max-width: 70%;
   font-size: 18px;
+}
+
+.card .card-content .card-media {
+  position: relative;
+  width: 85%;
+  margin: 20px auto;
+  box-sizing: border-box;
+}
+
+.card .card-content .card-media .header{
+  width: 100%;
+  margin: 20px 0px;
+  padding: 15px;
+  font-size: 20px;
+  box-sizing: border-box;
+  color: rgb(0, 64, 188);
+}
+
+.card .card-content .card-media .iframe-box{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card .card-content .card-media .iframe-box iframe {
+  width: 50vw;
+  height: 28vw;
+  border-radius: 8px;
 }
 
 .card .card-footer {
