@@ -10,11 +10,13 @@
 }
 
 .card {
-  position: relative;
+  position: fixed;
   background-color: #fff;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto; 
   border-radius: 10px;
   width: 70%;
   height: 90%;
@@ -63,7 +65,7 @@
   width: 85%;
   height: 70%;
   flex-shrink: 0;
-  margin: 20px 0px 20px 0px;
+  margin: 2% 0%;
   padding: 15px;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
@@ -76,15 +78,13 @@
 }
 
 .card .card-content .card-media {
-  position: relative;
   width: 85%;
-  margin: 20px auto;
   box-sizing: border-box;
 }
 
 .card .card-content .card-media .header{
   width: 100%;
-  margin: 20px 0px;
+  margin: 2% 0%;
   padding: 15px;
   font-size: 20px;
   box-sizing: border-box;
@@ -93,6 +93,7 @@
 
 .card .card-content .card-media .iframe-box{
   display: flex;
+  margin-bottom: 3%;
   align-items: center;
   justify-content: center;
 }
