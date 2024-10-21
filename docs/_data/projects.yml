@@ -1,6 +1,6 @@
 - name: LLM Research with Dr. Bruce Schneier
   description: "Design prompt engineering methodologies to elicit human-like political survey responses from LLMs in affiliation with the Harvard Kennedy School of Government and Berkman Klein Center."
-  full_description: "Design prompt engineering methodologies to elicit human-like political survey responses from LLMs in affiliation with the Harvard Kennedy School of Government and Berkman Klein Center."
+  full_description: "Design prompt engineering methodologies to elicit human-like political survey responses from LLMs (ChatGPT, Claude, etc.) conditioning on demographics including age, ideology, race, etc. Co-authored commentary piece on AI Political Polling, published with the Harvard Kennedy School Ash Center."
   info: https://ash.harvard.edu/articles/using-ai-for-political-polling/
   images: 
     - https://lh3.googleusercontent.com/d/1Qtwb1_liEIQisg0H54gk4_-zDcirmxom?authuser=1/view
