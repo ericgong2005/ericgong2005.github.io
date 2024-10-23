@@ -29,7 +29,8 @@
 
 - name: Augmented Reality Research with Dr. Christian Jacobs
   description: "Designed an Augmented Reality Application to educate the public on COVID-19 using Unreal Engine, for use in the Microsoft Hololens 2 AR headset."
-  full_description: "Designed an Augmented Reality Application to educate the public on COVID-19 using Unreal Engine, for use in the Microsoft Hololens 2 AR headset."
+  full_description: "Designed Augmented Reality Application using Unreal Engine’s C++ and Node-graph architecture programming system for use in Microsoft’s Hololens 2 AR Headset. Collaborated with PhD students and proposed a novel implementation of the Niagara Particle Engine to visualize COVID in AR 
+"
   info: https://lindsayvirtualhuman.com/
   images:
     - https://lh3.googleusercontent.com/d/1SXROXFmLsxXWuXSiLL-B6XvYrv-i2YwC?authuser=1/view
