@@ -11,7 +11,7 @@
 
 - name: Hosting R Code on Web Apps with the Dana-Farber Cancer Institute
   description: "Develop web app and API gateways to deploy statistical tools developed in R by Dana-Farber researchers for usage by patients, clinics, and other researchers."
-  full_description: "Develop web app and API gateways to deploy statistical tools developed in R by Dana-Farber researchers for usage by patients, clinics, and other researchers."
+  full_description: "Develop a React.js web app paired with API gateways for R code hosted on Dana-Farber Cancer Institute Servers to deploy statistical tools developed by Dana-Farber researchers for usage by patients, clinics, and other researchers."
   info: https://www.dana-farber.org/
   images:
     - https://lh3.googleusercontent.com/d/1i7q0hidg0g8Kae8gaclVg33aOrJOkSrL?authuser=1/view
