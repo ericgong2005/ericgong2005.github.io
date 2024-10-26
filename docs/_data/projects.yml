@@ -1,6 +1,6 @@
 - name: LLM Research with Dr. Bruce Schneier
   description: "Design prompt engineering methodologies to elicit human-like political survey responses from LLMs in affiliation with the Harvard Kennedy School of Government and Berkman Klein Center."
-  full_description: "Design prompt engineering methodologies to elicit human-like political survey responses from LLMs (ChatGPT, Claude, etc.) conditioning on demographics including age, ideology, race, etc. Co-authored commentary piece on AI Political Polling, published with the Harvard Kennedy School Ash Center."
+  full_description: "Design prompt engineering methodologies to elicit human-like political survey responses from LLMs (ChatGPT, Claude, etc.) conditioning on demographics including age, ideology, race, etc. Co-authored a commentary piece on AI Political Polling, published in affiliation with the Harvard Kennedy School's Ash Center and the Berkman Klein Center."
   info: https://ash.harvard.edu/articles/using-ai-for-political-polling/
   images: 
     - https://lh3.googleusercontent.com/d/1Qtwb1_liEIQisg0H54gk4_-zDcirmxom?authuser=1/view
@@ -11,14 +11,14 @@
 
 - name: Hosting R Code on Web Apps with the Dana-Farber Cancer Institute
   description: "Develop web app and API gateways to deploy statistical tools developed in R by Dana-Farber researchers for usage by patients, clinics, and other researchers."
-  full_description: "Develop a React.js web app paired with API gateways for R code hosted on Dana-Farber Cancer Institute Servers to deploy statistical tools developed by Dana-Farber researchers for usage by patients, clinics, and other researchers."
+  full_description: "Develop a React.js web app paired with API gateways for R code hosted on Dana-Farber Cancer Institute Servers for the purpose of deploying statistical tools developed by Dana-Farber researchers for usage by patients, clinics, and other researchers."
   info: https://www.dana-farber.org/
   images:
     - https://lh3.googleusercontent.com/d/1i7q0hidg0g8Kae8gaclVg33aOrJOkSrL?authuser=1/view
 
 - name: Bioinformatics Research with Dr. Jake Chen
   description: "Proposed novel iterative framework for disease-gene correlation prediction via network algorithms. First-author paper published in Volume 59 (2) of the Journal for Biomedical Instrumentations."
-  full_description: "Proposed a novel iterative framework for disease-gene correlation prediction via network algorithms. Presented findings at 38th Southern Biomedical Engineering Conference via podium presentation. First-author paper published in Volume 59 (2) of the Journal for Biomedical Instrumentations."
+  full_description: "Proposed a novel iterative framework for disease-gene correlation prediction via network algorithms. Presented research findings at 38th Southern Biomedical Engineering Conference via poster exhibition and podium presentation. First-author paper published in Volume 59 (2) of the Journal for Biomedical Instrumentations."
   info: /documents/uab-paper.html
   images:
     - https://lh3.googleusercontent.com/d/1KhGyEpLEGTd07NZE9Vvv2GYKk1qjg3jD?authuser=1/view
@@ -29,8 +29,7 @@
 
 - name: Augmented Reality Research with Dr. Christian Jacobs
   description: "Designed an Augmented Reality Application to educate the public on COVID-19 using Unreal Engine, for use in the Microsoft Hololens 2 AR headset."
-  full_description: "Designed Augmented Reality Application using Unreal Engine’s C++ and Node-graph architecture programming system for use in Microsoft’s Hololens 2 AR Headset. Collaborated with PhD students and proposed a novel implementation of the Niagara Particle Engine to visualize COVID in AR 
-"
+  full_description: "Designed an Augmented Reality Application using Unreal Engine’s C++ and Node-graph architecture programming system for use in Microsoft’s Hololens 2 AR Headset. Collaborated with PhD students to propose a novel implementation of the Niagara Particle Engine to Augmented Reality applications, for the purpose of visualizing the airborne nature of COVID."
   info: https://lindsayvirtualhuman.com/
   images:
     - https://lh3.googleusercontent.com/d/1SXROXFmLsxXWuXSiLL-B6XvYrv-i2YwC?authuser=1/view
@@ -47,7 +46,7 @@
       
 - name: Enzyme Inhibition Research with The Summer Science Program
   description: "Utilized in-vitro protein inhibition assays and in-silico inhibitor efficacy modeling to target enzymes highly conserved across the fungal kingdom."
-  full_description: "Utilized in-vitro protein inhibition assays and in-silico inhibitor efficacy modeling to target enzymes highly conserved across the fungal kingdom."
+  full_description: "Utilized in-vitro protein inhibition assays and in-silico inhibitor efficacy modeling to identify enzymes highly conserved across the fungal kingdom suitable for targeted inhibition."
   info: /documents/ssp-paper.html
   images: 
     - https://lh3.googleusercontent.com/d/17jmlMgARmQOw_TirPUHSHA-mzNeyscTj?authuser=1/view
@@ -57,7 +56,7 @@
 
 - name: STEM Society Website
   description: "Coded the STEM Society website using C#, implementing a MySQL database backend allowing users to filter opportunities by their preferences."
-  full_description: "Founded federally registered non-profit STEM Society providing resources for youth to explore STEM. Coded the STEM Society website using C#, implementing a MySQL database backend allowing users to filter opportunities by their preferences, receiving 10,000+ visits and numerous positive comments via the feedback form."
+  full_description: "Founded the federally registered non-profit STEM Society, with the goal of providing resources empower youth to explore STEM. Coded the STEM Society website using C#, implementing a MySQL database backend allowing users to filter opportunities by their preferences, receiving 10,000+ visits and numerous positive comments via the feedback form."
   info: https://stemsociety.ca/
   images: 
     - https://lh3.googleusercontent.com/d/1K9ISW778xvDjAMOvavf7chEmPW37OdOb?authuser=1/view
