@@ -27,6 +27,13 @@
     - https://lh3.googleusercontent.com/d/1MFWkpZkxWk3V0pVqHxCTBP9_3c8-DB2c?authuser=1/view
     - https://lh3.googleusercontent.com/d/1sjf4Gmt1IPJ4XIe6ydMwfSiLvWMLhswH?authuser=1/view
 
+- name: "Red-Teaming for MIT Media Lab’s Future You Digital Chat"
+  description: "Identify potential security vulnerabilities in the Future You web interface. Improve the rigor of the Future You’s LLM Chat Intervention in rejecting LLM prompt hacking methodologies."
+  full_description: "Worked with the MIT Media Lab’s Future You Team to identify potential vulnerabilities in the Future You web interface at risk of leaking sensitive user data and personal information. Improve the rigor of the Future You LLM Chat Intervention in rejecting common and novel LLM prompt Hacking Methodologies."
+  info: https://futureyou.media.mit.edu/
+  images:
+    - https://lh3.googleusercontent.com/d/1LFqfehyKqdCPEdpdBnYKxEew1mzpucVP?authuser=1/view
+
 - name: Augmented Reality Research with Dr. Christian Jacobs
   description: "Designed an Augmented Reality Application to educate the public on COVID-19 using Unreal Engine, for use in the Microsoft Hololens 2 AR headset."
   full_description: "Designed an Augmented Reality Application using Unreal Engine’s C++ and Node-graph architecture programming system for use in Microsoft’s Hololens 2 AR Headset. Collaborated with PhD students to propose a novel implementation of the Niagara Particle Engine to Augmented Reality applications, for the purpose of visualizing the airborne nature of COVID."
