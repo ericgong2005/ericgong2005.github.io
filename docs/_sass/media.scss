@@ -10,14 +10,14 @@
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
   }
   
-  .pdf-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 97%;
-    margin: 10px;
-    box-sizing: border-box;
-    position: relative;
+.pdf-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 97%;
+  margin: 10px;
+  box-sizing: border-box;
+  position: relative;
 }
 
 .pdf-container iframe {
