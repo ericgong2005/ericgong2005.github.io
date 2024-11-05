@@ -45,8 +45,13 @@
 
 - name: Summer Science Program Alumni
   image: https://lh3.googleusercontent.com/d/17jmlMgARmQOw_TirPUHSHA-mzNeyscTj?authuser=1/view
-  description: "One of over 3400 alumni of the Summer Science Program (SSP), a summer research program founded in 1959 affilated with Caltech and MIT. Attended SSP's Biochemistry program in 2022."
+  description: "One of over 3400 alumni of the Summer Science Program (SSP), a summer research program founded in 1959 affiliated with Caltech and MIT. Attended SSP's Biochemistry program in 2022."
   info: https://summerscience.org/
+
+- name: SHAD Canada Program Alumni
+  image: https://lh3.googleusercontent.com/d/1G0hOWBu85OybxxkU63Ot6LSaLrkaZ2J2?authuser=1/view
+  description: "Alumnus of the SHAD Canada Entrepreneurship in STEM Program, a summer program founded in 1981 affiliated with top Canadian Universities including University of Waterloo, McGill, and UBC."
+  info: https://www.shad.ca/
 
 - name: Johns Hopkins University Center for Talented Youth
   image: https://lh3.googleusercontent.com/d/1bwbBxqToCah6z90O7B6iRmLltQUaGw50?authuser=1/view
