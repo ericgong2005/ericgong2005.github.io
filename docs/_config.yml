@@ -28,10 +28,6 @@ defaults:
     values:
       layout: "default"
 
-# Social media links
-linkedin: https://www.linkedin.com/in/ericgong2005/
-email: ericgong@college.harvard.edu
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
