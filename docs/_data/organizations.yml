@@ -1,59 +1,59 @@
 - name: Harvard College Undergraduate
-  image: https://lh3.googleusercontent.com/d/1eV_3vYHXC-5D3kSeOJJA4h415xCs-qG-?authuser=1/view
+  image: /assets/images/organizations/Harvard_logo.png
   description: "Undergraduate at Harvard concentrating in Computer Science and Statistics. (For those unfamiliar with Harvard jargon, concentrating is equivalent to majoring)"
   info: https://www.harvard.edu/
 
 - name: Harvard General Education Committee
-  image: https://lh3.googleusercontent.com/d/1qClp7VtA2h2mqQpZHugWjQe02hl8Rc7e?authuser=1/view
+  image: /assets/images/organizations/GenEd.png
   description: "Collaborate with tenured professors and Harvard Deans to create faculty guidelines and review courses taken by all Harvard undergraduates."
   info: https://gened.college.harvard.edu/about/#standing-committee
 
 - name: Harvard College Research Program (HCRP) Grant Recipient
-  image: https://lh3.googleusercontent.com/d/1bY-zDXL84ODvjq5u0PCR4Ye7_a2Z_irQ?authuser=1/view
+  image: /assets/images/organizations/HCRP.png
   description: "The Harvard College Research Program (HCRP) provides funding in support of student-initiated, independent scholarly research or creative endeavors undertaken with guidance of a Harvard-affiliated faculty mentor."
   info: https://uraf.harvard.edu/uraf-opportunities/hcrp
 
 - name: Harvard Innovation Labs
-  image: https://lh3.googleusercontent.com/d/1tyvbP-Rk_GKsXNkFNL7dzyHw3-yf7Pe6?authuser=1/view
+  image: /assets/images/organizations/Harvard_Innovation_Labs.jpeg
   description: "The Harvard Innovation Labs support the entrepreneurial endeavors of Harvard innovators from idea generation to venture building, through mentorship guidance, community, funding, and other resources."
   info: https://innovationlabs.harvard.edu/
 
 - name: Paragon Policy Fellowship
-  image: https://lh3.googleusercontent.com/d/1Tqh4sYl6wG-8Efv3oE36YQT9NggFjDox?authuser=1/view
+  image: /assets/images/organizations/Paragon.png
   description: "Analyze the technical feasibility of deploying LLMs on US Department of Energy Frontier and Aurora Supercomputers, for use by researchers across various disciplines"
   info: https://www.paragonfellowship.org/
 
 - name: Harvard Data Analytics Group
-  image: https://lh3.googleusercontent.com/d/1RRfVFrrQCQSdOO2Xm1gUDa8RI15JZi4F?authuser=1/view
+  image: /assets/images/organizations/HDAG.jpeg
   description: "Train and deploy econometric time-series forecasting models on a web app interface to aid Fortune 500 company clients in predicting revenue and costs."
   info: https://harvardanalytics.org/
 
 - name: Harvard Computer Society Tech for Social Good
-  image: https://lh3.googleusercontent.com/d/1JvnQ9Exl839TPUJfDrLEqBd4ZMn-ST_t?authuser=1/view
+  image: /assets/images/organizations/T4SG.png
   description: "Fine-tune LLM models for deployment on a REACT web app, decreasing resource retrieval time for One Degree, a non-profit providing crisis response and resources for those in need"
   info: https://harvardanalytics.org/
 
 - name: Harvard Global Research and Consulting Group
-  image: https://lh3.googleusercontent.com/d/1dZKA0nrnRboVBjGLLfbhcY6sclK68bz6?authuser=1/view
+  image: /assets/images/organizations/GRC.png
   description: "Employ web performance optimization techniques and conducted case-study research to aid billion-dollar NGO Doctors Without Borders on increasing digital resource accessibility."
   info: https://www.hugrc.org/
 
 - name: STEM Society Non-profit
-  image: https://lh3.googleusercontent.com/d/1K9ISW778xvDjAMOvavf7chEmPW37OdOb?authuser=1/view
+  image: /assets/images/organizations/STEM_Society.png
   description: "Founder of STEM Society, a federally registered non-profit organization aimed at providing resources to aid youth in exploring STEM"
   info: https://stemsociety.ca/
 
 - name: Summer Science Program Alumni
-  image: https://lh3.googleusercontent.com/d/17jmlMgARmQOw_TirPUHSHA-mzNeyscTj?authuser=1/view
+  image: /assets/images/organizations/SSP.jpg
   description: "One of over 3400 alumni of the Summer Science Program (SSP), a summer research program founded in 1959 affiliated with Caltech and MIT. Attended SSP's Biochemistry program in 2022."
   info: https://summerscience.org/
 
 - name: SHAD Canada Program Alumni
-  image: https://lh3.googleusercontent.com/d/1G0hOWBu85OybxxkU63Ot6LSaLrkaZ2J2?authuser=1/view
+  image: /assets/images/organizations/SHAD.png
   description: "Alumnus of the SHAD Canada Entrepreneurship in STEM Program, a summer program founded in 1981 affiliated with top Canadian Universities including University of Waterloo, McGill, and UBC."
   info: https://www.shad.ca/
 
 - name: Johns Hopkins University Center for Talented Youth
-  image: https://lh3.googleusercontent.com/d/1bwbBxqToCah6z90O7B6iRmLltQUaGw50?authuser=1/view
+  image: /assets/images/organizations/CTY.png
   description: "Member of the Center for Talented Youth's Julian C. Stanley Study of Exceptional Talent. Notable alums include Terence Tao and Mark Zuckerberg."
   info: https://cty.jhu.edu/
