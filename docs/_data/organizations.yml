@@ -1,6 +1,6 @@
 - name: Harvard College Undergraduate
   image: /assets/images/organizations/Harvard_logo.png
-  description: "Undergraduate at Harvard concentrating in Computer Science and Statistics. (For those unfamiliar with Harvard jargon, concentrating is equivalent to majoring)"
+  description: "Undergraduate at Harvard studying Computer Science and Statistics."
   info: https://www.harvard.edu/
 
 - name: Harvard General Education Committee

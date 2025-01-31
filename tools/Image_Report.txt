@@ -1,4 +1,5 @@
 Image File Report
+Total size: 39.067 MB
 ==================================================
 Path: assets/images/projects/LINDSAY_Human_Lab/Spatial_Tracking.png
 Size: 4.381 MB	1952 x 1682
