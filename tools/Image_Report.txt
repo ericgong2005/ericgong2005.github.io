@@ -1,146 +1,146 @@
 Image File Report
 ==================================================
-Path: assets/images/organizations/STEM_Society.png
-Size: 23.461 MB
---------------------------------------------------
-Path: assets/images/projects/STEM_Society/Logo.png
-Size: 23.461 MB
---------------------------------------------------
 Path: assets/images/projects/LINDSAY_Human_Lab/Spatial_Tracking.png
-Size: 4.381 MB
+Size: 4.381 MB	1952 x 1682
 --------------------------------------------------
 Path: assets/images/projects/LINDSAY_Human_Lab/Hand_Menu_Real.png
-Size: 3.755 MB
+Size: 3.755 MB	2072 x 1270
 --------------------------------------------------
 Path: assets/images/projects/LLM_Polling/Opinion_Article.png
-Size: 3.396 MB
+Size: 3.396 MB	2064 x 1464
 --------------------------------------------------
 Path: assets/images/general/headshot.jpg
-Size: 3.360 MB
+Size: 3.360 MB	6000 x 4000
 --------------------------------------------------
 Path: assets/images/projects/STEM_Society/Competitions.png
-Size: 2.179 MB
+Size: 2.179 MB	3024 x 1478
 --------------------------------------------------
 Path: assets/images/projects/STEM_Society/Current_Events.png
-Size: 1.947 MB
+Size: 1.947 MB	3024 x 1482
 --------------------------------------------------
 Path: assets/images/projects/STEM_Society/MySQL.png
-Size: 1.780 MB
+Size: 1.780 MB	3840 x 2160
 --------------------------------------------------
 Path: assets/images/projects/UAB_Bioinformatics/Abstract.png
-Size: 1.754 MB
+Size: 1.754 MB	1786 x 1472
 --------------------------------------------------
 Path: assets/images/projects/LINDSAY_Human_Lab/Hand_Menu_Tab.png
-Size: 1.652 MB
+Size: 1.652 MB	3840 x 2160
 --------------------------------------------------
 Path: assets/images/projects/UAB_Bioinformatics/Poster.jpg
-Size: 1.355 MB
+Size: 1.355 MB	7152 x 5364
 --------------------------------------------------
 Path: assets/images/projects/LINDSAY_Human_Lab/Hand_Menu_Blueprint.png
-Size: 1.072 MB
+Size: 1.072 MB	3840 x 2160
 --------------------------------------------------
 Path: assets/images/projects/UAB_Bioinformatics/Figures.png
-Size: 1.008 MB
+Size: 1.008 MB	2336 x 860
 --------------------------------------------------
 Path: assets/images/projects/SSP/MOE.png
-Size: 1.008 MB
+Size: 1.008 MB	2290 x 842
+--------------------------------------------------
+Path: assets/images/organizations/STEM_Society_Logo.png
+Size: 980.652 KB	4470 x 838
+--------------------------------------------------
+Path: assets/images/projects/STEM_Society/STEM_Society_Logo.png
+Size: 980.652 KB	4470 x 838
 --------------------------------------------------
 Path: assets/images/projects/LINDSAY_Human_Lab/Niagara.png
-Size: 975.846 KB
+Size: 975.846 KB	2314 x 1300
 --------------------------------------------------
 Path: assets/images/projects/LLM_Polling/Code.png
-Size: 835.093 KB
+Size: 835.093 KB	3024 x 1722
 --------------------------------------------------
 Path: assets/images/projects/Website/Website.png
-Size: 815.975 KB
+Size: 815.975 KB	3024 x 1476
 --------------------------------------------------
 Path: assets/images/projects/Website/Code_Slideshow.png
-Size: 696.506 KB
+Size: 696.506 KB	3024 x 1726
 --------------------------------------------------
 Path: assets/images/projects/Website/Code_Layout.png
-Size: 596.824 KB
+Size: 596.824 KB	3024 x 1722
 --------------------------------------------------
 Path: assets/images/organizations/T4SG.png
-Size: 565.472 KB
+Size: 565.472 KB	1526 x 328
 --------------------------------------------------
 Path: assets/images/projects/LLM_Polling/Paper_Figure.png
-Size: 556.924 KB
+Size: 556.924 KB	3000 x 2400
 --------------------------------------------------
 Path: assets/images/projects/LINDSAY_Human_Lab/UE_Blueprint.png
-Size: 505.425 KB
+Size: 505.425 KB	1920 x 1080
 --------------------------------------------------
 Path: assets/images/projects/STEM_Society/Css.png
-Size: 422.884 KB
+Size: 422.884 KB	3840 x 2160
 --------------------------------------------------
 Path: assets/images/icons/Google.png
-Size: 396.870 KB
+Size: 396.870 KB	1300 x 1272
 --------------------------------------------------
 Path: assets/images/projects/LLM_Polling/Research_Logo.png
-Size: 393.409 KB
+Size: 393.409 KB	1964 x 596
 --------------------------------------------------
 Path: assets/images/projects/STEM_Society/Code.png
-Size: 389.200 KB
+Size: 389.200 KB	3840 x 2160
 --------------------------------------------------
 Path: assets/images/projects/UAB_Bioinformatics/Graphical_Abstract.jpg
-Size: 242.728 KB
+Size: 242.728 KB	3001 x 784
 --------------------------------------------------
 Path: assets/images/projects/SSP/Inhibitor_Interaction_Map.png
-Size: 205.634 KB
+Size: 205.634 KB	1372 x 430
 --------------------------------------------------
 Path: assets/images/organizations/Harvard_logo.png
-Size: 202.450 KB
+Size: 202.450 KB	640 x 623
 --------------------------------------------------
 Path: assets/images/projects/Future_You/Future_You_Logo.png
-Size: 150.316 KB
+Size: 150.316 KB	1306 x 312
 --------------------------------------------------
 Path: assets/images/projects/LINDSAY_Human_Lab/LINDSAY.png
-Size: 134.070 KB
+Size: 134.070 KB	1252 x 352
 --------------------------------------------------
 Path: assets/images/icons/favicon.png
-Size: 101.988 KB
+Size: 101.988 KB	288 x 288
 --------------------------------------------------
 Path: assets/images/projects/UAB_Bioinformatics/UAB_Logo.png
-Size: 89.362 KB
+Size: 89.362 KB	1526 x 304
 --------------------------------------------------
 Path: assets/images/icons/ORCID.png
-Size: 84.917 KB
+Size: 84.917 KB	2048 x 2048
 --------------------------------------------------
 Path: assets/images/icons/Github.png
-Size: 82.865 KB
+Size: 82.865 KB	2048 x 2048
 --------------------------------------------------
 Path: assets/images/organizations/CTY.png
-Size: 71.257 KB
+Size: 71.257 KB	750 x 404
 --------------------------------------------------
 Path: assets/images/organizations/Paragon.png
-Size: 65.878 KB
+Size: 65.878 KB	1280 x 370
 --------------------------------------------------
 Path: assets/images/organizations/SSP.jpg
-Size: 27.164 KB
+Size: 27.164 KB	661 x 300
 --------------------------------------------------
 Path: assets/images/projects/SSP/SSP.jpg
-Size: 27.164 KB
+Size: 27.164 KB	661 x 300
 --------------------------------------------------
 Path: assets/images/organizations/SHAD.png
-Size: 21.319 KB
+Size: 21.319 KB	830 x 397
 --------------------------------------------------
 Path: assets/images/organizations/Harvard_Innovation_Labs.jpeg
-Size: 15.125 KB
+Size: 15.125 KB	764 x 191
 --------------------------------------------------
 Path: assets/images/organizations/GRC.png
-Size: 8.566 KB
+Size: 8.566 KB	225 x 224
 --------------------------------------------------
 Path: assets/images/organizations/HCRP.png
-Size: 7.404 KB
+Size: 7.404 KB	526 x 96
 --------------------------------------------------
 Path: assets/images/organizations/GenEd.png
-Size: 6.266 KB
+Size: 6.266 KB	429 x 117
 --------------------------------------------------
 Path: assets/images/projects/Dana_Farber/Dana-Farber.png
-Size: 6.069 KB
+Size: 6.069 KB	442 x 114
 --------------------------------------------------
 Path: assets/images/organizations/HDAG.jpeg
-Size: 4.950 KB
+Size: 4.950 KB	200 x 200
 --------------------------------------------------
 Path: assets/images/icons/Linkedin.png
-Size: 1.700 KB
+Size: 1.700 KB	225 x 225
 --------------------------------------------------

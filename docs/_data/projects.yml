@@ -67,7 +67,7 @@
   full_description: "Founded the federally registered non-profit STEM Society, with the goal of providing resources empowering youth to explore STEM. Coded the STEM Society website using C#, implementing a MySQL database backend allowing users to filter opportunities by their preferences, receiving 10,000+ visits and numerous positive comments via the feedback form."
   info: https://stemsociety.ca/
   images: 
-    - /assets/images/projects/STEM_Society/Logo.png
+    - /assets/images/projects/STEM_Society/STEM_Society_Logo.png
     - /assets/images/projects/STEM_Society/Competitions.png
     - /assets/images/projects/STEM_Society/MySQL.png
     - /assets/images/projects/STEM_Society/Current_Events.png

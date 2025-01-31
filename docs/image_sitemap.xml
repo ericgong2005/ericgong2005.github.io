@@ -5,20 +5,6 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://ericgong2005.github.io/assets/images/organizations/STEM_Society.png</loc>
-        <changefreq>daily</changefreq>
-        <image:image>
-            <image:loc>https://ericgong2005.github.io/assets/images/organizations/STEM_Society.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://ericgong2005.github.io/assets/images/projects/STEM_Society/Logo.png</loc>
-        <changefreq>daily</changefreq>
-        <image:image>
-            <image:loc>https://ericgong2005.github.io/assets/images/projects/STEM_Society/Logo.png</image:loc>
-        </image:image>
-    </url>
-    <url>
         <loc>https://ericgong2005.github.io/assets/images/projects/LINDSAY_Human_Lab/Spatial_Tracking.png</loc>
         <changefreq>daily</changefreq>
         <image:image>
@@ -107,6 +93,20 @@
         <changefreq>daily</changefreq>
         <image:image>
             <image:loc>https://ericgong2005.github.io/assets/images/projects/SSP/MOE.png</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://ericgong2005.github.io/assets/images/organizations/STEM_Society_Logo.png</loc>
+        <changefreq>daily</changefreq>
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/organizations/STEM_Society_Logo.png</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://ericgong2005.github.io/assets/images/projects/STEM_Society/STEM_Society_Logo.png</loc>
+        <changefreq>daily</changefreq>
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/STEM_Society/STEM_Society_Logo.png</image:loc>
         </image:image>
     </url>
     <url>

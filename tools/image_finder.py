@@ -5,6 +5,7 @@ Second, to generate an image sitemap to support Google Search
 '''
 
 from pathlib import Path
+from PIL import Image
 
 IMAGE_EXTENSIONS = {'.png', '.jpg', '.jpeg', '.gif', '.bmp', '.tiff', '.webp'}
 
@@ -15,6 +16,9 @@ WEBSITE_DIRECTORY = Path(__file__).parent.parent / "docs"
 REPORT_FILE = Path(__file__).parent / "Image_Report.txt"
 
 SITEMAP_FILE = Path(__file__).parent.parent / "docs" / "image_sitemap.xml"
+
+# Decompression Warning for large images
+Image.MAX_IMAGE_PIXELS = 200000000
 
 def xml_header():
     return """<?xml version="1.0" encoding="UTF-8"?>
@@ -38,8 +42,8 @@ def xml_image_entry(url):
 def find_images():
     image_list = []
     for image in WEBSITE_DIRECTORY.rglob("*"):
-        # Do not check the _site directory
-        if "_site" not in image.parts and image.suffix.lower() in IMAGE_EXTENSIONS:
+        # Do not check the _site directory or the image original directory
+        if ("_site" not in image.parts) and ("original" not in image.parts) and (image.suffix.lower() in IMAGE_EXTENSIONS):
             file_path = image.relative_to(WEBSITE_DIRECTORY)  
             file_size = image.stat().st_size
 
@@ -50,8 +54,19 @@ def find_images():
             if display_size > 1024:
                 display_size = display_size / 1024
                 size_units = "MB"
+            
+            # Get image dimensions
+            try:
+                with Image.open(image) as img:
+                    width, height = img.size
+            except Exception as e:
+                width, height = 0, 0
 
-            image_list.append({"Path" : file_path, "Display": f"Size: {display_size:.3f} {size_units}", "Size": file_size})
+            image_list.append({"Path" : file_path, 
+                               "Display": f"Size: {display_size:.3f} {size_units}", 
+                               "Size": file_size,
+                               "Dimensions":  f"{width} x {height}"
+                               })
     image_list = sorted(image_list, key=lambda x: x["Size"], reverse=True)
 
     with open(REPORT_FILE, 'w') as f:
@@ -59,7 +74,7 @@ def find_images():
         f.write("=" * 50 + "\n")
         for image in image_list:
             f.write(f"Path: {image['Path']}\n")
-            f.write(image["Display"] + "\n")
+            f.write(image["Display"] + f'\t{image["Dimensions"]}\n')
             f.write("-" * 50 + "\n")
     
     with open(SITEMAP_FILE, 'w') as f:
