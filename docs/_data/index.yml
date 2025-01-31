@@ -1,0 +1,18 @@
+profile: /assets/images/index/Profile.jpg
+
+pagelinks:
+  - name: "Github Repository"
+    icon: /assets/images/index/Github.png
+    link: https://github.com/ericgong2005
+
+  - name: "LinkedIn Profile"
+    icon: /assets/images/index/Linkedin.png
+    link: https://www.linkedin.com/in/ericgong2005/
+
+  - name: "Researcher ORCID"
+    icon: /assets/images/index/ORCID.png
+    link: https://orcid.org/0009-0009-1727-9021
+
+  - name: "Google Developer Page"
+    icon: /assets/images/index/Google.png
+    link: https://g.dev/ericgong2005

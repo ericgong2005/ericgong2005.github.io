@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://ericgong2005.github.io/index.html</loc>
+        <changefreq>weekly</changefreq>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/index/Github.png</image:loc>
+			<image:title>Eric Gong's Github Repository</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/index/ORCID.png</image:loc>
+			<image:title>Eric Gong's Researcher ORCID</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/index/Linkedin.png</image:loc>
+			<image:title>Eric Gong's LinkedIn Profile</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/index/Profile.jpg</image:loc>
+			<image:title>Eric Gong is a Harvard Undergraduate studying Computer Science and Statistics</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/index/Google.png</image:loc>
+			<image:title>Eric Gong's Google Developer Page</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://ericgong2005.github.io/feedback.html</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://ericgong2005.github.io/projects.html</loc>
+        <changefreq>weekly</changefreq>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/SSP/SSP.jpg</image:loc>
+			<image:title>Eric Gong's Involvement with Enzyme Inhibition Research with The Summer Science Program</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/Dana_Farber/Dana-Farber.png</image:loc>
+			<image:title>Eric Gong's Involvement with Hosting R Code on Web Apps with the Dana-Farber Cancer Institute</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/Website/Website.png</image:loc>
+			<image:title>Eric Gong's Involvement with Personal Website</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/Future_You/Future_You_Logo.png</image:loc>
+			<image:title>Eric Gong's Involvement with Red-Teaming for MIT Media Lab’s Future You Digital Chat</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/UAB_Bioinformatics/UAB_Logo.png</image:loc>
+			<image:title>Eric Gong's Involvement with Bioinformatics Research with Dr. Jake Chen</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/LINDSAY_Human_Lab/LINDSAY.png</image:loc>
+			<image:title>Eric Gong's Involvement with Augmented Reality Research with Dr. Christian Jacobs</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/LLM_Polling/Research_Logo.png</image:loc>
+			<image:title>Eric Gong's Involvement with LLM Research with Dr. Bruce Schneier</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/STEM_Society/STEM_Society_Logo.png</image:loc>
+			<image:title>Eric Gong's Involvement with STEM Society Website</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/SSP/MOE.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/SSP/Inhibitor_Interaction_Map.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/Website/Code_Slideshow.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/Website/Code_Layout.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/UAB_Bioinformatics/Abstract.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/UAB_Bioinformatics/Poster.jpg</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/UAB_Bioinformatics/Graphical_Abstract.jpg</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/UAB_Bioinformatics/Figures.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/LINDSAY_Human_Lab/Hand_Menu_Tab.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/LINDSAY_Human_Lab/Spatial_Tracking.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/LINDSAY_Human_Lab/Hand_Menu_Blueprint.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/LINDSAY_Human_Lab/UE_Blueprint.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/LINDSAY_Human_Lab/Hand_Menu_Real.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/LINDSAY_Human_Lab/Niagara.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/LLM_Polling/Code.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/LLM_Polling/Opinion_Article.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/LLM_Polling/Paper_Figure.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/STEM_Society/Code.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/STEM_Society/Current_Events.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/STEM_Society/MySQL.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/STEM_Society/Competitions.png</image:loc>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/projects/STEM_Society/Css.png</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://ericgong2005.github.io/organizations.html</loc>
+        <changefreq>weekly</changefreq>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/organizations/SSP.jpg</image:loc>
+			<image:title>Eric Gong's Involvement with Summer Science Program Alumni</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/organizations/T4SG.png</image:loc>
+			<image:title>Eric Gong's Involvement with Harvard Computer Society Tech for Social Good</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/organizations/CTY.png</image:loc>
+			<image:title>Eric Gong's Involvement with Johns Hopkins University Center for Talented Youth</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/organizations/GenEd.png</image:loc>
+			<image:title>Eric Gong's Involvement with Harvard General Education Committee</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/organizations/STEM_Society_Logo.png</image:loc>
+			<image:title>Eric Gong's Involvement with STEM Society Non-profit</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/organizations/HDAG.jpeg</image:loc>
+			<image:title>Eric Gong's Involvement with Harvard Data Analytics Group</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/organizations/Harvard_logo.png</image:loc>
+			<image:title>Eric Gong's Involvement with Harvard College Undergraduate</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/organizations/Harvard_Innovation_Labs.jpeg</image:loc>
+			<image:title>Eric Gong's Involvement with Harvard Innovation Labs</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/organizations/SHAD.png</image:loc>
+			<image:title>Eric Gong's Involvement with SHAD Canada Program Alumni</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/organizations/HCRP.png</image:loc>
+			<image:title>Eric Gong's Involvement with Harvard College Research Program (HCRP) Grant Recipient</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/organizations/Paragon.png</image:loc>
+			<image:title>Eric Gong's Involvement with Paragon Policy Fellowship</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://ericgong2005.github.io/assets/images/organizations/GRC.png</image:loc>
+			<image:title>Eric Gong's Involvement with Harvard Global Research and Consulting Group</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://ericgong2005.github.io/documents/resume.html</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://ericgong2005.github.io/documents/ssp-paper.html</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://ericgong2005.github.io/documents/uab-paper.html</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://ericgong2005.github.io/assets/documents/SSP_Research_Paper.pdf</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://ericgong2005.github.io/assets/documents/Resume.pdf</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://ericgong2005.github.io/assets/documents/UAB_Research_Paper.pdf</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+</urlset>
