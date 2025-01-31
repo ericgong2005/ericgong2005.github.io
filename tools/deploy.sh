@@ -25,6 +25,8 @@ if [[ ! "$current_dir" =~ /docs$ ]]; then
     exit 1
 fi
 
+commit_message="${1:-No Commit Message}"
+
 echo "RUNNING: bundle exec jekyll build"
 bundle exec jekyll build
 check_status "Jekyll build"
@@ -43,7 +45,7 @@ cd ..
 echo "RUNNING: Commit and push changes"
 git add .
 check_status "Git Add"
-git commit -a -m "Automated Deployment"
+git commit -a -m "Automated Deployment: $commit_message"
 check_status "Git Commit"
 git push
 check_status "Git Push"
