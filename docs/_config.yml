@@ -18,6 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+url: "https://ericgong2005.github.io"
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap

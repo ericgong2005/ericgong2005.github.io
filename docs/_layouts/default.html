@@ -3,6 +3,9 @@
   <head>
     <meta charset="utf-8">
 
+    <!-- Canonical URL -->
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="/assets/images/general/favicon.png">
 
@@ -23,7 +26,7 @@
     <!-- Open Graph / Facebook Meta Tags -->
     <meta property="og:title" content="{{ page.seo_title | default: page.title}}">
     <meta property="og:description" content="{{ page.description }}">
-    <meta property="og:image" content="{{ site.data.images.profile.headshot }}">
+    <meta property="og:image" content="{{ site.data.index.profile }}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:type" content="website">
     
@@ -31,7 +34,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ page.seo_title | default: page.title }}">
     <meta name="twitter:description" content="{{ page.description }}">
-    <meta name="twitter:image" content="{{ site.data.images.profile.headshot }}">
+    <meta name="twitter:image" content="{{ site.data.index.profile }}">
 
     <!-- Link to CSS Stylesheet -->
     <link rel="stylesheet" href="/assets/css/styles.css">
