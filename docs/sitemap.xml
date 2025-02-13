@@ -242,10 +242,6 @@
         <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>https://ericgong2005.github.io/documents/cs2630-paper.html</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
         <loc>https://ericgong2005.github.io/documents/ssp-paper.html</loc>
         <changefreq>weekly</changefreq>
     </url>
@@ -267,10 +263,6 @@
     </url>
     <url>
         <loc>https://ericgong2005.github.io/assets/documents/UAB_Research_Paper.pdf</loc>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://ericgong2005.github.io/assets/documents/CS2630_Research_Paper.pdf</loc>
         <changefreq>monthly</changefreq>
     </url>
 </urlset>
