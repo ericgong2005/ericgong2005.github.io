@@ -42,3 +42,108 @@ body {
 .navbar a:hover {
   color: #333399;
 }
+
+// Hamburger button (hidden on desktop)
+.navbar-toggle {
+  display: none;
+  font-size: 35px;
+  background: none;
+  border: none;
+  padding: 5px;
+  cursor: pointer;
+  color: #666666;
+}
+
+// Slide-out menu (hidden by default)
+.sidebar-menu {
+  position: fixed;
+  top: 0;
+  left: -75%;
+  width: 75%;
+  height: 100%;
+  background-color: #F8F8F8;
+  transition: left 0.3s ease;
+  z-index: 2500;
+  padding-top: 60px; // to clear your fixed navbar
+  overflow-y: auto;
+}
+
+// when open, slide in
+.sidebar-menu.open {
+  left: 0;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.3);
+}
+
+// Mobile-only styles
+@media (max-width: 768px) {
+  // hide desktop links
+  .navbar-links {
+    display: none;
+  }
+  // show hamburger
+  .navbar-toggle {
+    display: block;
+    float: left;
+  }
+  // sidebar links: stack vertically
+  .sidebar-menu a {
+    display: block;
+    padding: 20px;
+    color: #666666;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Helvetica Neue';
+    border-bottom: 1px solid #e0e0e0;
+  }
+  .sidebar-menu a.current {
+    color: #333399;
+  }
+  .sidebar-menu a:hover {
+    background-color: #f0f0f0;
+    color: #333399;
+  }
+
+  .sidebar-menu .sidebar-close {
+    position: absolute;
+    top: 0; 
+    font-size: 35px;
+    padding: 5px;
+    left: 15px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #666666;
+  }
+
+  .sidebar-menu {
+    z-index: 2500;
+  }
+
+  .sidebar-overlay {
+    z-index: 2400;
+  }
+}
+
+// prevent body scroll when menu open
+body.menu-open {
+  overflow: hidden;
+}
+
+// dark covering overlay
+.sidebar-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.4);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease;
+  z-index: 2400; // between navbar (2000) and sidebar-menu (2500)
+}
+
+.sidebar-overlay.visible {
+  opacity: 1;
+  visibility: visible;
+}

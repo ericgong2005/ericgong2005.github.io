@@ -1,8 +1,34 @@
 <div class="navbar">
+  <button class="navbar-toggle" aria-label="Toggle navigation">&#9776;</button>
+
+  <div class="navbar-links">
+    {% for item in site.data.navigation.left %}
+      <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
+        {{ item.name }}
+      </a>
+    {% endfor %}
+    {% for item in site.data.navigation.right %}
+      <a href="{{ item.link }}"
+         {% if page.url == item.link %}class="current right"{% else %}class="right"{% endif %}>
+        {{ item.name }}
+      </a>
+    {% endfor %}
+  </div>
+</div>
+
+<nav class="sidebar-menu" aria-hidden="true">
+  <button class="sidebar-close" aria-label="Close menu">&#9776;</button>
   {% for item in site.data.navigation.left %}
-  <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
+    <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
+      {{ item.name }}
+    </a>
   {% endfor %}
   {% for item in site.data.navigation.right %}
-  <a href="{{ item.link }}" {% if page.url == item.link %}class="current right"{% else %}class="right"{% endif %}>{{ item.name }}</a>
+    <a href="{{ item.link }}"
+       {% if page.url == item.link %}class="current"{% endif %}>
+      {{ item.name }}
+    </a>
   {% endfor %}
-</div>
+</nav>
+
+<div class="sidebar-overlay" aria-hidden="true"></div>
