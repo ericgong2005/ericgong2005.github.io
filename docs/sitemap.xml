@@ -43,12 +43,12 @@
 
         <image:image>
             <image:loc>https://ericgong2005.github.io/assets/images/projects/SSP/SSP.jpg</image:loc>
-			<image:title>Eric Gong's Involvement with Enzyme Inhibition Research with The Summer Science Program</image:title>
+			<image:title>Eric Gong's Involvement with Evaluating Candidate Fungal Enzymes as Inhibition Targets</image:title>
         </image:image>
 
         <image:image>
             <image:loc>https://ericgong2005.github.io/assets/images/projects/Dana_Farber/Dana-Farber.png</image:loc>
-			<image:title>Eric Gong's Involvement with Hosting R Code on Web Apps with the Dana-Farber Cancer Institute</image:title>
+			<image:title>Eric Gong's Involvement with Designing Alternatives to RShiny for Deploying R Statistical Models</image:title>
         </image:image>
 
         <image:image>
@@ -58,22 +58,22 @@
 
         <image:image>
             <image:loc>https://ericgong2005.github.io/assets/images/projects/Future_You/Future_You_Logo.png</image:loc>
-			<image:title>Eric Gong's Involvement with Red-Teaming for MIT Media Lab’s Future You Digital Chat</image:title>
+			<image:title>Eric Gong's Involvement with LLM Chat Service Prompt Hacking and Red-teaming</image:title>
         </image:image>
 
         <image:image>
             <image:loc>https://ericgong2005.github.io/assets/images/projects/UAB_Bioinformatics/UAB_Logo.png</image:loc>
-			<image:title>Eric Gong's Involvement with Bioinformatics Research with Dr. Jake Chen</image:title>
+			<image:title>Eric Gong's Involvement with Novel Frameworks for Determining Disease-Gene Correlation</image:title>
         </image:image>
 
         <image:image>
             <image:loc>https://ericgong2005.github.io/assets/images/projects/LINDSAY_Human_Lab/LINDSAY.png</image:loc>
-			<image:title>Eric Gong's Involvement with Augmented Reality Research with Dr. Christian Jacobs</image:title>
+			<image:title>Eric Gong's Involvement with Designing and Deploying Augmented Reality Applications</image:title>
         </image:image>
 
         <image:image>
             <image:loc>https://ericgong2005.github.io/assets/images/projects/LLM_Polling/Research_Logo.png</image:loc>
-			<image:title>Eric Gong's Involvement with LLM Research with Dr. Bruce Schneier</image:title>
+			<image:title>Eric Gong's Involvement with Evaluating LLM Performance on Public Opinion Prediction</image:title>
         </image:image>
 
         <image:image>

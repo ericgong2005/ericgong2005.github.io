@@ -1,6 +1,6 @@
-- name: LLM Research with Dr. Bruce Schneier
-  description: "Design prompt engineering methodologies to elicit human-like political survey responses from LLMs in affiliation with the Harvard Kennedy School of Government and Berkman Klein Center."
-  full_description: "Design prompt engineering methodologies to elicit human-like political survey responses from LLMs (ChatGPT, Claude, etc.) conditioning on demographics including age, ideology, race, etc. Co-authored a commentary piece on AI Political Polling, published in affiliation with the Harvard Kennedy School Ash Center and the Berkman Klein Center."
+- name: Evaluating LLM Performance on Public Opinion Prediction
+  description: "Examine feasibility of quantifying political issue polling results using LLMs. Co-authored Comentary piece published by the Harvard Kennedy School Ash Center"
+  full_description: "Evaluate the ability of LLMs (ChatGPT, Claude, etc.) to predict the political opinion distributions of specific age, ideological, racical, and gender demographics. Co-authored a commentary piece on AI Political Polling, published in affiliation with the Harvard Kennedy School Ash Center and the Berkman Klein Center."
   info: https://ash.harvard.edu/articles/using-ai-for-political-polling/
   images: 
     - /assets/images/projects/LLM_Polling/Research_Logo.png
@@ -9,14 +9,14 @@
     - /assets/images/projects/LLM_Polling/Paper_Figure.png
 
 
-- name: Hosting R Code on Web Apps with the Dana-Farber Cancer Institute
-  description: "Develop web app and API gateways to deploy statistical tools developed in R by Dana-Farber researchers for usage by patients, clinics, and other researchers."
-  full_description: "Develop a React.js web app paired with API gateways for R code hosted on Dana-Farber Cancer Institute Servers for the purpose of deploying statistical tools developed by Dana-Farber researchers for usage by patients, clinics, and other researchers."
+- name: Designing Alternatives to RShiny for Deploying R Statistical Models
+  description: "Designed React web app and R-based microservice to deploy cancer risk prediction statistical tools as an alternative to RShiny."
+  full_description: "Designed React web app and R-based microservice to deploy cancer risk prediction statistical tools as an alternative to RShiny. Eliminated software licensing fees costs, reduced latency and throughput limitations in current RShiny apps used by Dana-Farber. Initiated migration case-study from legacy Apache web servers to Node.js"
   info: https://www.dana-farber.org/
   images:
     - /assets/images/projects/Dana_Farber/Dana-Farber.png
 
-- name: Bioinformatics Research with Dr. Jake Chen
+- name: Novel Frameworks for Determining Disease-Gene Correlation
   description: "Proposed novel iterative framework for disease-gene correlation prediction via network algorithms. First-author paper published in Volume 59 (2) of the Journal for Biomedical Instrumentations."
   full_description: "Proposed a novel iterative framework for disease-gene correlation prediction via network algorithms. Presented research findings at 38th Southern Biomedical Engineering Conference via poster exhibition and podium presentation. First-author paper published in Volume 59 (2) of the Journal for Biomedical Instrumentations."
   info: /documents/uab-paper.html
@@ -27,14 +27,14 @@
     - /assets/images/projects/UAB_Bioinformatics/Figures.png
     - /assets/images/projects/UAB_Bioinformatics/Abstract.png
 
-- name: "Red-Teaming for MIT Media Lab’s Future You Digital Chat"
+- name: "LLM Chat Service Prompt Hacking and Red-teaming"
   description: "Identify potential security vulnerabilities in the Future You web interface. Improve the rigor of the Future You’s LLM Chat Intervention in rejecting LLM prompt hacking methodologies."
   full_description: "Worked with the MIT Media Lab’s Future You Team to identify potential vulnerabilities in the Future You web interface at risk of leaking sensitive user data and personal information. Improve the rigor of the Future You LLM Chat Intervention in rejecting common and novel LLM prompt Hacking Methodologies."
   info: https://futureyou.media.mit.edu/
   images:
     - /assets/images/projects/Future_You/Future_You_Logo.png
 
-- name: Augmented Reality Research with Dr. Christian Jacobs
+- name: Designing and Deploying Augmented Reality Applications 
   description: "Designed an Augmented Reality Application to educate the public on COVID-19 using Unreal Engine, for use in the Microsoft Hololens 2 AR headset."
   full_description: "Designed an Augmented Reality Application using Unreal Engine’s C++ and Node-graph architecture programming system for use in Microsoft’s Hololens 2 AR Headset. Collaborated with PhD students to propose a novel implementation of the Niagara Particle Engine to Augmented Reality applications, for the purpose of visualizing the airborne nature of COVID."
   info: https://lindsayvirtualhuman.com/
@@ -52,7 +52,7 @@
       link: https://www.youtube.com/embed/UJisPF8AxM8?rel=0
 
       
-- name: Enzyme Inhibition Research with The Summer Science Program
+- name: Evaluating Candidate Fungal Enzymes as Inhibition Targets
   description: "Utilized in-vitro protein inhibition assays and in-silico inhibitor efficacy modeling to target enzymes highly conserved across the fungal kingdom."
   full_description: "Utilized in-vitro protein inhibition assays and in-silico inhibitor efficacy modeling to identify enzymes highly conserved across the fungal kingdom suitable for targeted inhibition."
   info: /documents/ssp-paper.html

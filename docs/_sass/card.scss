@@ -130,3 +130,29 @@
 .card .info-button:hover {
   background-color: rgb(0, 120, 240);
 }
+
+@media (max-width: 768px) {
+  .card {
+    width: 90%;
+  }
+
+  .card .card-content .card-slideshow {
+    height: 50%;
+  }
+
+  .card .card-header .card-title {
+    width: 90%;
+    font-size: 20px;
+  }
+
+  .card .card-header .card-close {
+    top: 10px;
+    right: 15px;
+    font-size: 24px;
+  }
+
+  .card .card-content .card-description {
+    padding: 15px;
+    max-width: 85%;
+  }
+}
