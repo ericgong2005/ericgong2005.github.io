@@ -8,6 +8,7 @@
     margin: 20px 50px;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    box-sizing: border-box;
   }
   
 .pdf-container {
@@ -25,4 +26,28 @@
     height: 100%;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 768px) {
+  .header {
+    width: 90%;
+    margin: 20px auto;
+  }
+    
+  .pdf-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 97%;
+    margin: 5px;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  .pdf-container iframe {
+      width: 90%;
+      height: 100%;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  }
 }
