@@ -234,10 +234,6 @@
         </image:image>
     </url>
     <url>
-        <loc>https://ericgong2005.github.io/documents/gened1179-paper.html</loc>
-        <changefreq>weekly</changefreq>
-    </url>
-    <url>
         <loc>https://ericgong2005.github.io/documents/resume.html</loc>
         <changefreq>weekly</changefreq>
     </url>
@@ -248,10 +244,6 @@
     <url>
         <loc>https://ericgong2005.github.io/documents/uab-paper.html</loc>
         <changefreq>weekly</changefreq>
-    </url>
-    <url>
-        <loc>https://ericgong2005.github.io/assets/documents/GenEd1179_Research_Paper.pdf</loc>
-        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://ericgong2005.github.io/assets/documents/SSP_Research_Paper.pdf</loc>
